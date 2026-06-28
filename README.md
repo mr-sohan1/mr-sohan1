@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hello, I am Sohan
 I am a Computer Science and Engineering student passionate about web development and problem-solving. I am currently focused on the MERN stack and enjoy building practical applications that improve my understanding of software development. I am eager to learn, adapt, and contribute as a software developer.<br>
 
 
