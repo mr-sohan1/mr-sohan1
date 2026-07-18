@@ -1,4 +1,4 @@
-# 💫 Hi, I'm Sohan👋
+# 💫 Hi, I'm Sohan Maity👋
 Full-Stack Developer with expertise in JavaScript, React, Node.js, Express.js, MongoDB, and C++. Strong problem-solving and analytical skills with a focus on building scalable, user-centric web applications and AI-powered solutions.<br>
 
 
